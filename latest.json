@@ -1,0 +1,15 @@
+{
+  "version": "0.1.8",
+  "notes": "- Start with Windows through a logon task instead of the Run value",
+  "pub_date": "2026-11-04T06:14:08.744Z",
+  "platforms": {
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUmFDV3pyakVqZ1pYSUVKUUZraE5nN09sc0tJeVo3NDErMlgyZU9kMVdnRXlLRmNVWTVyWnBnZkZaSERrNjY1QXRpNUtZRUo0czVwdzcrYStuTmN2dXpFTmFRL2NGVmdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzcyODQ1CWZpbGU6S29zZUFzaXN0YW5pXzAuMS44X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuOApjcGtIUjdPem5rQUNFTmtpR21SMzVwMFdmSTZlT2RHejJPbi96amFxSHpqTlpEOWh1N0VvVHNOZkZ4ZldQYXk4dU4yOEhiOWJJNDRNRkk5VDMwcjFEQT09Cg==",
+      "url": "https://raw.githubusercontent.com/Eneskp3441/KoseAsistani-Releases/main/KoseAsistani_0.1.8_x64-setup.exe"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUmFDV3pyakVqZ1pYSUVKUUZraE5nN09sc0tJeVo3NDErMlgyZU9kMVdnRXlLRmNVWTVyWnBnZkZaSERrNjY1QXRpNUtZRUo0czVwdzcrYStuTmN2dXpFTmFRL2NGVmdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzcyODQ1CWZpbGU6S29zZUFzaXN0YW5pXzAuMS44X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuOApjcGtIUjdPem5rQUNFTmtpR21SMzVwMFdmSTZlT2RHejJPbi96amFxSHpqTlpEOWh1N0VvVHNOZkZ4ZldQYXk4dU4yOEhiOWJJNDRNRkk5VDMwcjFEQT09Cg==",
+      "url": "https://raw.githubusercontent.com/Eneskp3441/KoseAsistani-Releases/main/KoseAsistani_0.1.8_x64-setup.exe"
+    }
+  }
+}
