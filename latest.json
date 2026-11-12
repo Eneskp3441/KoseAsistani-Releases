@@ -1,0 +1,15 @@
+{
+  "version": "0.1.12",
+  "notes": "- Keep replay buffers through a switched-off screen and restart the main one by itself",
+  "pub_date": "2026-11-12T15:31:34.872Z",
+  "platforms": {
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUmFDV3pyakVqZ1ZxdFhKNkFLZ3FzTHE1M1B0OHBpUFVKK29zYzBrOU5WanRRekFKQXljOVVnZzBaVnVTVzBwWk0wV2M0eDIrdEd5Q3FRb25zcXNXL2xNbWEwZlJWbndvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDk3NDg4CWZpbGU6S2VzdHJlbF8wLjEuMTJfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4xMgpRNGdMaFpCbW1SNnluUVlTNisyeWlmZ25tKzQ3Y1c0NDB3bDlLaUg2Y2ppcjM3dXhBOTBqSENwVXEyNzhzS2M2dXZMUHVHVGF3eUF3VmNvUzN5Nm5EZz09Cg==",
+      "url": "https://raw.githubusercontent.com/Eneskp3441/KoseAsistani-Releases/main/Kestrel_0.1.12_x64-setup.exe"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUmFDV3pyakVqZ1ZxdFhKNkFLZ3FzTHE1M1B0OHBpUFVKK29zYzBrOU5WanRRekFKQXljOVVnZzBaVnVTVzBwWk0wV2M0eDIrdEd5Q3FRb25zcXNXL2xNbWEwZlJWbndvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDk3NDg4CWZpbGU6S2VzdHJlbF8wLjEuMTJfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4xMgpRNGdMaFpCbW1SNnluUVlTNisyeWlmZ25tKzQ3Y1c0NDB3bDlLaUg2Y2ppcjM3dXhBOTBqSENwVXEyNzhzS2M2dXZMUHVHVGF3eUF3VmNvUzN5Nm5EZz09Cg==",
+      "url": "https://raw.githubusercontent.com/Eneskp3441/KoseAsistani-Releases/main/Kestrel_0.1.12_x64-setup.exe"
+    }
+  }
+}
